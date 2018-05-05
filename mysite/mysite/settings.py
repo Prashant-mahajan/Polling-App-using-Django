@@ -121,6 +121,7 @@ USE_TZ = True
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
     # '/mysite/polls',
+    'Users/prashant/Downloads/Projects/Polling-App-Using-Django/mysite/polls/static'
 ]
 
 STATIC_URL = '/static/'
